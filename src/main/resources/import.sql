@@ -1,0 +1,1 @@
+insert into UsuarioCliente (usuario, password, rol) values ('sandra', '$2a$12$bq/HHMOYwcWBoNbRjA7vg.16AaDc/dqk9csZmEXHYVoHp5ElsMZla',rol_alumna')
